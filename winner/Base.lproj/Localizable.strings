@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  winner
+
+  Created by Dide van Berkel on 09/05/2017.
+  Copyright © 2017 Dide van Berkel. All rights reserved.
+*/
+
+//DASHBOARD
+"dashboard_no_goals"="Bummer, no goals added yet! Add some goals to shine!";
+"dashboard_add_goals"="ADD";
+"dashboard_newest_goals" = "NEWEST GOALS";
+"dashboard_your_goals"="YOUR GOALS";
+"dashboard_activities"="ACTIVITIES";
+"dashboard_settings"="SETTINGS";
+
+//ACTIVITY
+
+//GOAL
+"goal_toolbar_title"="SET GOAL";
+"goal_set_title"="Set goal, frequency and period of goal";
+"goal_activity"="ACTIVITY";
+"goal_times"="times";
+"goal_per"="PER";
+
+//GENERAL
+"save"="SAVE";
+"day"="day";
+"week"="week";
+"month"="month";
